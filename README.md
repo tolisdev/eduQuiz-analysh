@@ -15,15 +15,15 @@ The tool is ideal for educators who want to provide differentiated learning path
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tolisdev/edu-quiz-generator.git```
+   git clone https://github.com/tolisdev/edu-quiz-generator.git
 2. Install dependencies:
     ```bash
-    pip install openai```
+    pip install openai
 3. Set your OpenAI API key as an environment variable:
     ```bash
-    export OPENAI_API_KEY="your_api_key_here"```
+    export OPENAI_API_KEY="your_api_key_here"
 4. Run:
     ```bash
-    python main.py```
+    python main.py
 
 
